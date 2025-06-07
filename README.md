@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Saraiva!
+# 👋 Olá, eu sou João Saraiva!
 
 Sou um jovem desenvolvedor backend em início de carreira, apaixonado por tecnologia e pelo aprendizado contínuo. Tenho fluência em inglês e conhecimentos básicos em espanhol, habilidades que complementam meu desenvolvimento profissional e pessoal.
 
