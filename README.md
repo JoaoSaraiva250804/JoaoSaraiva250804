@@ -30,9 +30,6 @@ Sou um jovem desenvolvedor backend em início de carreira, apaixonado por tecnol
 
 - **START Rede Cidadã**  
   Participação no projeto em 2024, com aprofundamento em linguagens como JavaScript, JAVA e SQL.
-  
-- **START+ Rede Cidadã**
- Participação no projeto em 2025, com aprofundamento em Python 
 
 ## 🎯 Objetivo
 
@@ -72,9 +69,6 @@ I’m a junior backend developer passionate about technology and continuous lear
 
 - **START Rede Cidadã**  
   Participated in 2024, deepening knowledge in JavaScript, JAVA, and SQL.
-
-- **START+ Rede Cidadã**  
-  Participated in 2025, deepening knowledge in Python
 
 ## 🎯 Goals
 
